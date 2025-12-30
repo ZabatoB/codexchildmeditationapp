@@ -1,0 +1,26 @@
+{
+  "appName": "Stillwater",
+  "version": "1.0.0",
+  "minimumAge": 4,
+  "maximumAge": 12,
+  "defaultSessionLengthMinutes": 5,
+  "maxSessionLengthMinutes": 15,
+  "streakResetHours": 36,
+  "gardenGrowthPerSession": 0.05,
+  "maxGardenGrowth": 1.0,
+  "sessionsToUnlockToolkit": 1,
+  "skillLearningThreshold": 3,
+  "defaultAgeRange": "7-9",
+  "miloMessages": {
+    "greeting": ["Hi! Ready to practice?"],
+    "encouragement": ["You're doing great!"],
+    "return": ["Welcome back!"],
+    "completion": ["Great job!"],
+    "gardenGrowth": ["Your garden is growing!"],
+    "streakCelebration": ["{streak} days!"],
+    "firstTime": ["Welcome!"]
+  },
+  "feelingLabels": {},
+  "categoryLabels": {},
+  "ageRangeLabels": {}
+}
